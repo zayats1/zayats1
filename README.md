@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zayats1
+- 👋 Hello there, I’m @zayats1
 - 👀 I’m interested in Embeded Development
 - 🌱 I’m currently learning STM32F4
 - 💞️ I’m looking to collaborate on Github
