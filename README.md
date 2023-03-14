@@ -1,6 +1,6 @@
 - 👋 Hello there, I’m @zayats1
 - 👀 I’m interested in Embeded Development
-- 🌱 I’m currently learning STM32F4
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me is  noway
 
